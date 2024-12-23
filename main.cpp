@@ -1,7 +1,7 @@
 #include "sdt.h"
 #include <iostream>
 using namespace std;
-
+//программа является учебной
 int main()
 {
      int a, b;
