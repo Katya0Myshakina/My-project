@@ -11,5 +11,6 @@ int main()
     std::cout << "Сумма чисел: " << a + b << std::endl;
     std::cout << "Разность чисел: " << a - b << std::endl;
     std::cout << "Произведение чисел: " << a * b << std::endl;
+    std::cout << "Частное чисел: " << a / b << std::endl;
     return 0;
 }
